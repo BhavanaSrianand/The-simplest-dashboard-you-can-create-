@@ -14,13 +14,23 @@ Data has been collected from 52 countries (developed and developing nations).
 Parameters: Country,	Level of development,	European Union Membership,	Currency,	Women Entrepreneurship Index,	Entrepreneurship Index,	Inflation rate,	Female Labor Force Participation 
 
 
-Tool used to interpret data: Microsoft Excel
-Analytics Tool: Pivot Table, Charts, and Slicer
-Level: Basic
-Author: Bhavana Srianand
+# Tool used to interpret data: Microsoft Excel
+
+
+
+# Analytics Tool: Pivot Table, Charts, and Slicer
+
+
+
+# Level: Basic
+
+
+
+# Author: Bhavana Srianand
 
 
 # Objectives
+
 
 
 1. To identify variables on which we wish to work
@@ -30,10 +40,18 @@ Author: Bhavana Srianand
 5. Generate a comprehensive dashboard
 
 
+
+
+
 # 1. Identifying variables
 
 
 Variables of interest: Level of development, Women Entreprenuership Index, Female Labour Force Participation, EU Membership
+
+
+
+
+
 
 
 # 2. Creating Combinations of these variables
@@ -47,13 +65,21 @@ With the help of this dataset, we wish to analyse the following parameters
 4. Countrywise Female Labour Force Participation
 
 
+
+
+
+
 # 3. Visualising Data using Pivot Charts
 
 1. Female Labour force participation
    
 
 
+
+
   <img width="476" height="251" alt="image" src="https://github.com/user-attachments/assets/6fdda600-c419-46e4-ba43-9fd63b1ecd68" />
+
+
 
 
 
@@ -61,28 +87,46 @@ With the help of this dataset, we wish to analyse the following parameters
 
 
 
+
+
 <img width="512" height="315" alt="image" src="https://github.com/user-attachments/assets/c6ccfeb6-d9a2-4635-839c-eb2d0204d0e4" />
+
+
 
 
 
 3. Entreprenuership Index vs Female Labour Force Participation
 
 
+
+
 <img width="823" height="304" alt="image" src="https://github.com/user-attachments/assets/5149cb1a-fbab-4851-8488-985a78b0372d" />
+
+
 
 
 
 4. Countrywise Female Labour Force Participation
 
 
+
+
 <img width="557" height="336" alt="image" src="https://github.com/user-attachments/assets/85589df8-afac-4f20-8c3f-92f7feef4ff6" />
+
+
+
+
 
 
 # 4. Generating Connections between the parameters
 
+
+
 We connect different paramemeters based on
 1. Level of Development
 2. EU Membership
+
+
 
 
 Use slicers
@@ -96,10 +140,14 @@ Use slicers
 
 
 
+
+
 # 5. Creating a Comprehensive Dashboard
 
 
 <img width="1327" height="530" alt="Screenshot 2025-09-04 at 1 24 19 PM" src="https://github.com/user-attachments/assets/03215aff-6d7d-455d-8183-521d9a6e8b48" />
+
+
 
 
 # Conclusion
@@ -108,7 +156,8 @@ This would help us to summarise the data in less than 5 minutes and note basic o
 
 
 
-# Authors: Bhavana Srianand
+
+# Author: Bhavana Srianand
 
 
  Thank you very much for visiting my page. Looking forward to bringing up more such projects!
