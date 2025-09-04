@@ -44,7 +44,9 @@ Author: Bhavana Srianand
 
 
 
-# 1. Identifying variables
+
+
+# Identifying variables
 
 
 Variables of interest: Level of development, Women Entreprenuership Index, Female Labour Force Participation, EU Membership
@@ -55,7 +57,9 @@ Variables of interest: Level of development, Women Entreprenuership Index, Femal
 
 
 
-# 2. Creating Combinations of these variables
+
+
+# Creating Combinations of these variables
 
 With the help of this dataset, we wish to analyse the following parameters
 
@@ -70,7 +74,9 @@ With the help of this dataset, we wish to analyse the following parameters
 
 
 
-# 3. Visualising Data using Pivot Charts
+
+
+# Visualising Data using Pivot Charts
 
 1. Female Labour force participation
    
@@ -119,7 +125,9 @@ With the help of this dataset, we wish to analyse the following parameters
 
 
 
-# 4. Generating Connections between the parameters
+
+
+# Generating Connections between the parameters
 
 
 
@@ -143,7 +151,10 @@ Use slicers
 
 
 
-# 5. Creating a Comprehensive Dashboard
+
+
+
+# Creating a Comprehensive Dashboard
 
 
 <img width="1327" height="530" alt="Screenshot 2025-09-04 at 1 24 19 PM" src="https://github.com/user-attachments/assets/03215aff-6d7d-455d-8183-521d9a6e8b48" />
@@ -151,9 +162,12 @@ Use slicers
 
 
 
+
+
 # Conclusion
 
 This would help us to summarise the data in less than 5 minutes and note basic observations that would help in moving forward.
+
 
 
 
