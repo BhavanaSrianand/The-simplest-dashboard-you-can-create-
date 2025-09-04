@@ -14,19 +14,20 @@ Data has been collected from 52 countries (developed and developing nations).
 Parameters: Country,	Level of development,	European Union Membership,	Currency,	Women Entrepreneurship Index,	Entrepreneurship Index,	Inflation rate,	Female Labor Force Participation 
 
 
-# Tool used to interpret data: Microsoft Excel
+
+Tool used to interpret data: Microsoft Excel
 
 
 
-# Analytics Tool: Pivot Table, Charts, and Slicer
+Analytics Tool: Pivot Table, Charts, and Slicer
 
 
 
-# Level: Basic
+Level: Basic
 
 
 
-# Author: Bhavana Srianand
+Author: Bhavana Srianand
 
 
 # Objectives
